@@ -1,4 +1,3 @@
-# aaaa
 # MAgPIE - Modular open source framework for modeling global land-systems
 
 [![DOI](https://zenodo.org/badge/135430060.svg)](https://zenodo.org/badge/latestdoi/135430060)
