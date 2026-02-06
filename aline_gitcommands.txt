@@ -1,0 +1,5 @@
+cd ~
+git clone https://github.com/netzerobrasil2050/NZB
+cd ~/NZB
+git branch -r (remoto)
+git branch (local)
