@@ -1,0 +1,3 @@
+Check branches: git branch 
+Check remote branches: git branch -r
+
